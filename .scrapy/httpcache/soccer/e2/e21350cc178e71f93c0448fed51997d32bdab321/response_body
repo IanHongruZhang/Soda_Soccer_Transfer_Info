@@ -1,0 +1,1143 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>转会中心--搜达足球</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<link rel="stylesheet" href="/css/h_guess.css" type="text/css" />
+		<link rel="stylesheet" href="/css/global.css" type="text/css"/>
+		<style type="text/css">
+<!-- 
+.paitable2 {
+	border: solid 1px #ccc;
+	border-collapse: collapse;
+	margin-right: 0px;
+	margin-bottom: 2px;
+	margin-left: 0px;
+}
+
+.paitable2 th {
+	line-height: 20px;
+	border: solid 1px #ccc;
+	text-align: center;
+	font-weight: 600;
+	color: #666;
+	background-color: #E4E4E4;
+}
+
+.paitable2 td {
+	text-align: center;
+	color: #666;
+	line-height: 18px;
+	background-color: #f7f7f7;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #ccc;
+	border-right-color: #ccc;
+	border-bottom-color: #ccc;
+	border-left-color: #ccc;
+}
+
+.paitable2 td.le {
+border: solid 1px #ededed;
+text-align: left
+}
+#guess_lot1 {
+height: 1px;
+overflow: hidden;
+background-image: url(/images/zucai/lottery_91.gif);
+background-repeat: no-repeat;
+clear: both;
+padding-left: 10px;
+font-size: 1px;
+line-height: 1px;
+}
+.g_b {
+background-image: url(/images/summary/5.gif);
+background-repeat: no-repeat;
+background-color: #eeeff0;
+border-right-width: 1px;
+border-bottom-width: 1px;
+border-right-style: none;
+border-bottom-style: none;
+border-right-color: #d9dde0;
+border-bottom-color: #d9dde0;
+}
+.g_b1 {
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #ededed;
+	border-bottom-color: #ededed;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #ededed;
+	padding-bottom: 8px;
+	border-top-color: #ededed;
+	display: block;
+	overflow: hidden;
+}
+.g_b2 {
+	background-image: url(/images/summary/13.gif);
+	background-repeat: no-repeat;
+	font-size: 1px;
+	line-height: 1px;
+	height: 11px;
+}
+.gg {
+font-family: "微软雅黑", "宋体";
+font-size: 20px;
+font-weight: normal;
+}
+.gg a {
+text-decoration: none;
+}
+.gh {
+background-image: url(/images/summary/6.gif);
+background-repeat: no-repeat;
+height: 110px;
+width: 700px;
+margin-top: 8px;
+}
+.pager{} 
+.pager a{border:1px solid #ccc;height:20px;width:20px;display:block;font-size:16px;float:left;margin:5px;}
+.pager .a_selected{border:1px solid #ccc;height:20px;width:20px;display:block;font-size:16px;float:left;margin:5px;background:red;color:white;}
+.gt {
+	background-image: url(/images/summary/7.gif);
+	background-repeat: no-repeat;
+	height: 30px;
+}
+.coq {
+	background-image: url(/images/zucai/coach01.jpg);
+	background-repeat: no-repeat;
+	height: 60px;
+}
+.coa {
+	background-image: url(/images/summary/12.gif);
+	background-repeat: no-repeat;
+	height: 31px;
+	width: 170px;
+	font-family: "微软雅黑", "宋体";
+	font-size: 16px;
+	line-height: 29px;
+	text-decoration: none;
+	float: right;
+	margin-top: 15px;
+	margin-right: 250px;
+	font-weight: 300;
+}
+.coa a {
+	color: #FFF;
+	text-decoration: none;
+}
+.tran2 {
+	float: left;
+	width: 341px;
+}
+.tran3 {
+	float: right;
+	width: 341px;
+}
+.tran1 {
+	padding-right: 6px;
+	padding-left: 6px;
+	margin-top: 10px;
+}
+-->
+  	</style>
+	</head>
+	<body id="zhuanhui">
+	  	<div class="head">
+<div class="area11"> <span class="r_5"></span><span class="r_6"></span>
+<div class="headlogo"><a href="/" title="搜达足球首页"><img src="/images/index/logo1.gif" alt="搜达足球 logo" border="0" /></a></div>
+<div class="headnav2">
+<ul class="nul">
+<li  class="n2"><a href="http://www.sodasoccer.com" title="搜达足球首页">首页</a></li>  
+<li class="n1"><img src="/images/index/index20110707.gif"/></li>  
+<li class="n2"><a href="http://jingcai.sodasoccer.com" title="竞彩">竞彩</a></li>
+<li class="n1"><img src="/images/index/index20110707.gif"/></li>
+<li class="n2"><a href="http://www.sodasoccer.com/search/index.jsp" title="足球数据搜索">搜索</a></li>
+<li class="n1"><img src="/images/index/index20110707.gif"/></li>
+<li class="n0"><a href="http://www.sodasoccer.com/dasai/index.html" title="联赛中心">联赛</a></li>  
+<li class="n1"><img src="/images/index/index20110707.gif"/></li>  
+<li class="n2"><a href="http://www.sodasoccer.com/top/2015/16/133/player_goal.shtml" title="排行">排行</a></li>
+</ul>
+</div>
+<div class="bgg"></div>
+ 
+<div id="welcomeTopBar"><div class="TopBarleft"></div>
+<ul>
+<li id="userinfo">你好,欢迎来到搜达足球网</li>
+</ul>
+<div class="TopBarrig"></div>
+</div>
+</div>
+
+</div>
+<script>
+	        function trim(str){ //删除左右两端的空格
+  		   return str.replace(/(^\s*)|(\s*$)/g, "");
+ 		}
+    	function getCookie(name){//获取指定名称的cookie的值 
+    	 
+			var cookies = document.cookie.split(";"); 
+			for(var i = 0;i < cookies.length;i ++){ 
+				var cookie = cookies[i].split("="); 
+				var c_name=trim(cookie[0]);
+				if(c_name==name){
+					return cookie[1];
+				} 
+			} 
+		} 
+     
+ 	function load_userinfo(){
+	var nickname=getCookie("nickname");
+    	if(nickname!=undefined && nickname.length>2){
+			nickname=decodeURI(nickname);
+			var info="<span>[<a href='#'>"+nickname+"</a>]您好！欢迎来到搜达足球</span><a href='http://www.sodasoccer.com/passport/logout.action'>退出</a>";
+			document.getElementById("userinfo").innerHTML=info;
+		}else{
+			var info="<span>您好！欢迎来到搜达足球</span><a href='http://passport.sodasoccer.com/login.html'>[登录]</a><a href='http://passport.sodasoccer.com/login.html'>[注册]</a>";
+			document.getElementById("userinfo").innerHTML=info;
+		}
+	}
+	load_userinfo();
+</script>
+		<div class="main">
+			<div id="daohang">
+				<a href="/lottery/index.html">足彩中心</a>--转会中心
+			</div>
+			<div class="coq">
+				<div class="coa">
+					<a target="_blank" 	href="http://www.sodasoccer.com/bbs/topic.action?kindID=101004001&typeID=0">进入论坛转会中心</a>
+				</div>
+			</div>
+			<div id="mainbox2">
+				<div id="left">
+					<div id="guess_lot1">
+					</div>
+					<div class="injury_1">
+						<div class="gh">
+							<div class="gt" style="font-size: 20px; font-family: '微软雅黑', '宋体';">
+							</div>
+							<div class="shangting">
+								<table width="50%" border="0" align="center" cellpadding="1" cellspacing="0">
+									<tr>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/index.shtml">
+													<img src="/images/index/home.png" alt="转会首页" width="40px" 	height="40px" />
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/index.shtml">
+													<span style="color:red">转会首页</span>
+												</a>
+											</p>
+										</td>
+															<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/282.shtml"><img
+														src="/images/index/chinaIco.gif" alt="中超"
+														/ width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/282.shtml"><span
+													>中超</span> </a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/348.shtml"><img
+														src="/images/index/cal.gif" alt="中甲"
+														/ width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/348.shtml"><span
+													>中甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/133.shtml">
+													<img src="/images/index/englandIco.gif" alt="英超联赛" width="40px" height="40px" />
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/133.shtml">
+													<span>英超</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/100.shtml">
+													<img	src="/images/index/italyIco.gif" alt="意甲联赛" width="40px"	height="40px" />
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/100.shtml">
+													<span >意甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/45.shtml">
+													<img src="/images/index/espanaIco.gif" alt="西甲联赛"  width="40px" height="40px">
+												</a>
+											</div>
+											<P>
+												<a href="/summary/transfer/45.shtml">
+													<span>西甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/115.shtml">
+													<img src="/images/index/germanyIco.gif" alt="德甲联赛" width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/115.shtml">
+													<span>德甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/122.shtml">
+													<img src="/images/index/franceIco.gif" alt="法甲联赛" width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/122.shtml">
+													<span>法甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/38.shtml">
+													<img src="/images/index/38.png" alt="土超"  width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/38.shtml">
+													<span>土超</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/69.shtml">
+													<img src="/images/index/69.png" alt="葡超"  width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/69.shtml">
+													<span>葡超</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/82.shtml">
+													<img src="/images/index/82.png" alt="荷甲"  width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/82.shtml">
+													<span>荷甲</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/60.shtml">
+													<img src="/images/index/60.png" alt="俄超"  width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/60.shtml">
+													<span>俄超</span>
+												</a>
+											</p>
+										</td>
+										<td>
+											<div class="shangting_img">
+												<a href="/summary/transfer/112.shtml">
+													<img src="/images/index/112.png" alt="希甲"  width="40px" height="40px">
+												</a>
+											</div>
+											<p>
+												<a href="/summary/transfer/112.shtml">
+													<span>希甲</span>
+												</a>
+											</p>
+										</td>
+									</tr>
+								</table>
+							</div>
+						</div>
+						<div class="g_box"></div>
+ 						<div class="g_b2"></div>                       
+						<div class="g_b1">
+							<div class="gr"></div>
+                                <div class="tran1">
+	                                <table width="100%" border="0" cellpadding="0" cellspacing="0"	class="paitable2">
+										<tr align="center">
+											<th>交易日期</th>
+											<th>交易性质</th>
+											<th>转会费(万欧元)</th>
+											<th>球员名</th>
+											<th>转入俱乐部</th>
+											<th>转出俱乐部</th>
+										</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-14</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/84/166865/57E270E61040A820.shtml">渠成</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/8/14433/4AF70D62D825C7F0.shtml">四川安纳普尔那</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/456/29EE375FC832E700.shtml">江苏苏宁</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-14</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/80/158894/F6B1F111F85A0328.shtml">李智超</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9629/119CFCDB4D81A885.shtml">武汉卓尔</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/456/29EE375FC832E700.shtml">江苏苏宁</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-14</td>
+													<td>租借</td>
+													<td>租借</td>
+													<td>
+														<a target="_blank"  href="/search/player/115/229591/63D982FF91516B13.shtml">贝兹亚克</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1059/0AFC26807F07F250.shtml">里耶卡</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/3171/0189FD4DB5D5656A.shtml">达姆施塔特</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-13</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/76/150807/A1F72C494F0BABE6.shtml">莫雷诺</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9629/119CFCDB4D81A885.shtml">武汉卓尔</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5837/CA3B0B4D69C7A2CE.shtml">长春亚泰</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-13</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/41/80223/84FDEFA816413B11.shtml">孙江山</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/6/11188/2F3ED10125A2C217.shtml">保定容大</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5798/A2B2336DDC3133EF.shtml">青岛中能</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-13</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/188/374754/D8B9AE443DF60C9B.shtml">高天意</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/456/29EE375FC832E700.shtml">江苏苏宁</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2258/D2CE1E5DC98C1E5B.shtml">深圳佳兆业</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-13</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/77/153729/44B1C0988325B555.shtml">杨博宇</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/456/29EE375FC832E700.shtml">江苏苏宁</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/8994/ED7CDDE69BC58E53.shtml">上海上港</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-13</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/113/225808/59699826F7F4FBDB.shtml">吾提库尔</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/8/14386/E94E3C6E98E8FF30.shtml">新疆天山雪豹</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11108/D8DB01BE9E6D3FA3.shtml">河北华夏幸福</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-11</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/100/199045/7630FA36C8C1D805.shtml">罗希</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/7/12452/5008F8A609FFD318.shtml">梅州客家</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5506/1B5E26FB3C5A05B1.shtml">上海申花</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-10</td>
+													<td>转会</td>
+													<td>250</td>
+													<td>
+														<a target="_blank"  href="/search/player/75/148883/43817E5AE8D4191A.shtml">卡达尔</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1608/86990679F65D7363.shtml">基辅迪纳摩</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/3002/96E77F15A9AFC849.shtml">波兹南莱赫</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-10</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/109/217650/0E600D8E168E854E.shtml">约万诺维奇</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3200/C77C5C21ED04DDC2.shtml">济州联</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5508/A86733FD18051A02.shtml">天津泰达</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-10</td>
+													<td>转会</td>
+													<td>580</td>
+													<td>
+														<a target="_blank"  href="/search/player/87/172916/F994629BD47F6A73.shtml">普拉托</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2598/1FAEB7311035CA4A.shtml">圣保罗</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2578/82CB62D266500B30.shtml">米内罗竞技</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-09</td>
+													<td>转会</td>
+													<td>93</td>
+													<td>
+														<a target="_blank"  href="/search/player/101/200468/1082E95E55BFC794.shtml">奥尔西奇</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3198/ADB8EDADC219FB4E.shtml">蔚山现代</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5837/CA3B0B4D69C7A2CE.shtml">长春亚泰</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-09</td>
+													<td>转会</td>
+													<td>800</td>
+													<td>
+														<a target="_blank"  href="/search/player/78/155266/6F61380007359B6B.shtml">埃尔纳内斯</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/6/11108/D8DB01BE9E6D3FA3.shtml">河北华夏幸福</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/1900/5D3202C0617733D8.shtml">尤文图斯</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-09</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/100/198670/3028118FBFF45A2D.shtml">马佐拉</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3201/50D7271982AFE03A.shtml">全北现代</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/9636/D4BAF4C5FD63B533.shtml">贵州智诚</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-08</td>
+													<td>转会</td>
+													<td>68</td>
+													<td>
+														<a target="_blank"  href="/search/player/58/115495/7AFBE407A35E80E7.shtml">奥沃里</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/6/11188/2F3ED10125A2C217.shtml">保定容大</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/1528/3BA9D0ABF41244D3.shtml">哥德堡树篱</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-08</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/43/84551/B3AF6B4D85076A22.shtml">王永珀</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9628/AB5432AB9373357C.shtml">天津权健</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5504/B9B346CFC477F9D3.shtml">山东鲁能</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-08</td>
+													<td>转会</td>
+													<td>545</td>
+													<td>
+														<a target="_blank"  href="/search/player/17/32277/E57BAD86AF116070.shtml">关震</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2258/D2CE1E5DC98C1E5B.shtml">深圳佳兆业</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11093/ECA8E9517978AF83.shtml">石家庄永昌</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-08</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/67/132085/BA63A135E4BFA036.shtml">莫林斯</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1829/5092E14724AB4CB3.shtml">帕纳辛奈科</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2257/AC86E1A3AA69B936.shtml">北京人和</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/57/112936/E78B920CC18BB4EA.shtml">蒂奥特</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9637/83F684793B2AFD0A.shtml">北京北控</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/400/FB01A451822F47C3.shtml">纽卡斯尔</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/94/186682/343971F8833E5D38.shtml">哈马德</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1537/A61B384F8AE5B8AC.shtml">哈马尔比</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/3175/AF2215B0E4B7FE2C.shtml">霍芬海姆</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>租借</td>
+													<td>租借</td>
+													<td>
+														<a target="_blank"  href="/search/player/113/225475/02E935E1B4B5CDCC.shtml">常飞亚</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9636/D4BAF4C5FD63B533.shtml">贵州智诚</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5791/E0069B2C301B9794.shtml">广州富力</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/80/159244/D31DE0AD6D97E94D.shtml">张世昌</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/8/14433/4AF70D62D825C7F0.shtml">四川安纳普尔那</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5791/E0069B2C301B9794.shtml">广州富力</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/78/154357/ACA6457B12829EF6.shtml">王建文</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9637/83F684793B2AFD0A.shtml">北京北控</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5798/A2B2336DDC3133EF.shtml">青岛中能</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>签约</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/112/223558/87108D599766608E.shtml">董春雨</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9637/83F684793B2AFD0A.shtml">北京北控</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/4/6070/A976367466F364B8.shtml">未知</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/77/153944/0309086B8089F568.shtml">邹仲霆</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9637/83F684793B2AFD0A.shtml">北京北控</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/8885/FEFCE5FD31D1D977.shtml">上海申鑫</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/77/153965/7DB310B5293973FB.shtml">徐亿海</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9637/83F684793B2AFD0A.shtml">北京北控</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/7/12407/D3A8754EAD5DB689.shtml">梅县铁汉</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-07</td>
+													<td>转会</td>
+													<td>700</td>
+													<td>
+														<a target="_blank"  href="/search/player/133/265549/C079F52FF9ABC276.shtml">普雷西亚多</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2258/D2CE1E5DC98C1E5B.shtml">深圳佳兆业</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2724/E0C0677B614B9BBC.shtml">卡利运动</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-06</td>
+													<td>转会</td>
+													<td>100</td>
+													<td>
+														<a target="_blank"  href="/search/player/38/74872/2BFE0764B1B5CEC6.shtml">胡斯蒂</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/3/5837/CA3B0B4D69C7A2CE.shtml">长春亚泰</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/509/F6DE1130DAE90E8C.shtml">法兰克福</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-06</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/55/109529/E168B99B80741275.shtml">奥特森</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9792/5EED54BF6145AF82.shtml">武里南联</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/9629/119CFCDB4D81A885.shtml">武汉卓尔</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-06</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/174/347882/17674C1CF12A0A7F.shtml">王晓星</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/8/14429/2008D2C71C133428.shtml">大连超越</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/8/14428/5487935AFE27F62F.shtml">银川贺兰山</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-06</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/57/112849/92446A18C0E77617.shtml">贾德森</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2582/6AE900A83C05BFD4.shtml">科林蒂安</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/9628/AB5432AB9373357C.shtml">天津权健</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-06</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/36/71657/E8EF280E0322F407.shtml">萨马拉斯</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/607/C23306EF0F7F79BB.shtml">萨拉戈萨</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/9/16116/43BA82D5D99376E5.shtml">俄克拉何马城</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-05</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/162/322311/A4E4E82C1CD9422F.shtml">刘军帅</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/3/5504/B9B346CFC477F9D3.shtml">山东鲁能</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/4736/562249353CFB0E53.shtml">托里什</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-05</td>
+													<td>转会</td>
+													<td>120</td>
+													<td>
+														<a target="_blank"  href="/search/player/96/191319/EE806828081E6C8D.shtml">安德烈</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2599/5294D14B523F84EA.shtml">累西腓运动</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/1495/ECDAC82AB72F36D9.shtml">里斯本竞技</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-05</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/113/225653/B5C162911BA64A80.shtml">贾天子</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/8994/ED7CDDE69BC58E53.shtml">上海上港</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/5/8885/FEFCE5FD31D1D977.shtml">上海申鑫</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/51/101311/3ECEC3CC382E52AB.shtml">赵容亨</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3200/C77C5C21ED04DDC2.shtml">济州联</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11093/ECA8E9517978AF83.shtml">石家庄永昌</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/102/203006/B85F8FE974257985.shtml">毛里西奥</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/9824/6FFAABAB2D8B2B7C.shtml">江原</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11093/ECA8E9517978AF83.shtml">石家庄永昌</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/70/139158/5C0494183C8CE43B.shtml">门迪</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/5/8772/AD4018C3E24A4E5B.shtml">阿布扎比巴尼亚斯</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11093/ECA8E9517978AF83.shtml">石家庄永昌</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>租借</td>
+													<td>租借</td>
+													<td>
+														<a target="_blank"  href="/search/player/80/159045/D2BD730EF18E5A36.shtml">米凯尔</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1815/E88344923D3F8521.shtml">特拉维夫马</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11093/ECA8E9517978AF83.shtml">石家庄永昌</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/72/142028/33FD1FE7C2376B7F.shtml">库恰克</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3010/883AF194F28E3732.shtml">格但斯克</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/575/E7936F126B441461.shtml">赫尔城</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-03</td>
+													<td>转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/103/205867/C661C242C4588650.shtml">费拉里</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/6/10033/D926B57729C5EBAA.shtml">大连一方</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/6/11248/2F28CAE3931B970E.shtml">帕特罗纳托</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>签约</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/39/76658/6A6352C9904D97F8.shtml">萨利霍维奇</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1561/3B1626215FBEEBF5.shtml">圣加伦</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/4/6070/A976367466F364B8.shtml">未知</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>签约</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/194/387261/0DBACB4EBEC27D00.shtml">郝润泽</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/3708/339E0A0A8B436296.shtml">格拉纳达</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/4/6070/A976367466F364B8.shtml">未知</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>租借</td>
+													<td>租借</td>
+													<td>
+														<a target="_blank"  href="/search/player/99/197869/793FA1C6956E292B.shtml">约瑟夫·马丁内斯</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/9/16287/831F92EA642E93B6.shtml">亚特兰大联</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2192/16DA8EC977862AEF.shtml">都灵</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>转会</td>
+													<td>500</td>
+													<td>
+														<a target="_blank"  href="/search/player/90/178988/4D179CA1A9C3862C.shtml">科茨</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1495/ECDAC82AB72F36D9.shtml">里斯本竞技</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/3/5716/26F70EFE2AEF0D6A.shtml">桑德兰</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>转会</td>
+													<td>460</td>
+													<td>
+														<a target="_blank"  href="/search/player/78/155295/C1411C58624211FA.shtml">塞巴斯蒂安·布兰科</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/3/4603/626BABC130DEE4A5.shtml">波特兰伐木工</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/2505/60C847F02FC1E085.shtml">圣洛伦索</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-02</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/74/146418/BAE2C9AE45026D0F.shtml">科拉瓦</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/2/2896/4666F496C8DC621E.shtml">德卜勒森</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/2/3708/339E0A0A8B436296.shtml">格拉纳达</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-01</td>
+													<td>自由转会</td>
+													<td></td>
+													<td>
+														<a target="_blank"  href="/search/player/59/117258/23974B96BAAFFBA0.shtml">伊万诺维奇</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/1746/AE16A79B87F92378.shtml">泽尼特</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/702/FBDBFB8B7464F1A4.shtml">切尔西</a>
+													</td>
+												</tr>
+												<tr align="center">
+													<td style="border-left: 1px solid #bcbcbc;">2017-02-01</td>
+													<td>租借</td>
+													<td>租借</td>
+													<td>
+														<a target="_blank"  href="/search/player/61/120017/9FA0468BAF8CFBA8.shtml">西里古</a>
+													</td>
+													<td>
+														<a target="_blank" href="/search/club/1/597/33BC15D4E6BB97A4.shtml">奥萨苏纳</a>
+													</td>
+													<td style="border-right: 1px solid #bcbcbc;">
+														<a target="_blank" href="/search/club/1/737/975321A871EC9417.shtml">圣日耳曼</a>
+													</td>
+												</tr>
+								</table>
+                              </div>  
+							  <div class="pager"><a href='./index.shtml'>1</a><a href='./index_1.shtml'>2</a><a href='./index_2.shtml' class='a_selected'>3</a><a href='./index_3.shtml'>4</a><a href='./index_4.shtml'>5</a><a href='./index_5.shtml'>6</a></div>
+						</div>
+					</div>
+				</div>
+                <div id="right"> 
+				<div style="height:9px;"></div>
+				 <div class="tug">
+				 <div class="tugte"><a href="http://zhushou.360.cn/detail/index/soft_id/3291675?recrefer=SE_D_%E6%90%9C%E8%BE%BE%E8%B6%B3%E7%90%83" target="_blank"><img border="0" src="http://www.sodasoccer.com/picture/advert/1403201004129294.jpg"/></a>
+</div>
+			 </div>
+			</div>
+		</div>
+	</div>
+    <div style="height:12px;"></div>
+<!--网站body装饰部分结束,foot部分开始-->﻿
+﻿<div class="foot"><a href="http://www.sodasoccer.com/about/about.html">关于我们</a>|
+<a href="http://www.sodasoccer.com/about/associator.html">招聘英才</a>|
+<a href="http://www.sodasoccer.com/about/contact.html">联系我们</a>|
+<a href="http://www.sodasoccer.com/about/free.html">免责声明</a>|
+<a href="http://www.sodasoccer.com/about/intimity.html">版权声明</a>|
+<a href="http://www.sodasoccer.com/about/link.html">相关链接</a>|
+<a href="http://www.sodasoccer.com/sitemap.html">网站地图</a>
+<p>北京市公安局海淀分局备案编号：1101082067 [<a href="http://www.miibeian.gov.cn/">
+<font color="#000">京ICP证060293号</font></a>]</p><p>Copyright @ 2004-2016 北京求之易数据有限公司 </p>
+</div>
+<script src="http://analytics.sodasoccer.com/visit.js"></script>
+<!--google分析-->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2203526-1";
+urchinTracker();
+</script>
+	</body>
+</html>
